@@ -24,8 +24,8 @@ public:
     void enqueue(int,int,int,int);
     void dequeue(ofstream&);
     bool isEmpty();
-    int first();
-    int last();
+    int first(); //Implement
+    int last(); //Implement
 };
 
 bool queue::isEmpty() {
