@@ -1,0 +1,11 @@
+Job1: length: 11  beginning: 13  wait 1  end 11
+Job2: length: 3  beginning: 15  wait 17  end 3
+Job3: length: 8  beginning: 4  wait 11  end 13
+Job4: length: 15  beginning: 3  wait 17  end 11
+Job5: length: 11  beginning: 13  wait 14  end 7
+Job6: length: 3  beginning: 12  wait 1  end 1
+Job7: length: 13  beginning: 3  wait 16  end 0
+Job8: length: 10  beginning: 13  wait 4  end 6
+Job9: length: 4  beginning: 2  wait 7  end 18
+Job10: length: 3  beginning: 2  wait 2  end 13
+Time it took for the Program to perform 0
